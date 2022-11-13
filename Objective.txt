@@ -1,0 +1,4 @@
+Main objective of our android application is that :
+A. To show a comparison between different TV shows.
+B. Visualization of the data to find useful insights.
+C. Developing conclusions from the analysis which will be useful to build a TV SHOWS   prediction model in the future.
