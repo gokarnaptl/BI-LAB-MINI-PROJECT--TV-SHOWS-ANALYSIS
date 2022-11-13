@@ -1,0 +1,1 @@
+We have successfully contributed to an open source project of tv show analysis  by adding different visualization techniques such as barplot, elbow graph, subplots for betterment of project results using version control systems such as github.
