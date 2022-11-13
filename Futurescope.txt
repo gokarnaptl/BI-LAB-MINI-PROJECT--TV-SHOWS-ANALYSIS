@@ -1,0 +1,6 @@
+
+The proposed system should be able to predict the rating of various tv shows accurately in the future.
+Evaluating and updating TV programs using data mining.
+Guessing the popularity of the TV show is an exciting activity with a growing interest in people in TV dramas. 
+A simple guess of a trending TV game based on individual ratings can be made. 
+Simple predictions of trending TV shows based on individual ratings can be made based on the target audience (Age, Year of Release, Rotten Tomatoes, etc.).
