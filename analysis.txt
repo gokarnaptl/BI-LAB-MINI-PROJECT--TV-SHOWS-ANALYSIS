@@ -1,0 +1,4 @@
+The cluster at the top is surely the best TV Shows, they have high scores by both IMDb and Rotten Tomatoes.
+The middle two are good and average TV Shows. There are outliers, and in some cases, some TV Shows have been rated high by one but rated low by the other.
+The outliers are mainly caused by the fact that say IMDb rated them well, but Rotten Tomatoes rated them badly.
+The bottom cluster is usually the TV Shows with bad ratings by both, but there are some outliers.
