@@ -1,0 +1,7 @@
+TV shows have gained more popularity among people than anything else in the last decade. 
+It is necessary to create a conclusive model that acts as a rating system that will be useful to those who are willing to watch a particular show also. 
+It will be used to build the prediction model. A set of data is categorized and calculated show views, based on limited display views. 
+Once the rating is done their comparisons are made using data visualization, ratings for different television shows can be viewed using bar graphs, pie charts, and histograms.
+Evaluating and rating TV shows using data mining. Guessing the popularity of the TV show is an exciting activity with a growing interest in people in TV shows.
+A simple guess of a trending TV show based on individual ratings can be made. Simple predictions of a trending TV show based on individual ratings can be made based on the target audience (Age, Year of Release, Rotten Tomatoes, etc.). 
+This project uses machine learning to compare TV Shows to analyze their popularity.
